@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React, Next and Node
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/nittosantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nittosantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nittosantos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
