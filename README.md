@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Front End Developer
 - 🌱 I’m currently learning React, Next and Node
-- 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   -
